@@ -29,7 +29,7 @@ void sample_two( uint16_td u16x );
 
 /*****************************************************************************
 * @name         sample_three
-* @brief        对给定字加给定增量
+* @brief        示例3
 * @param[in]    uint16_td u16step 增量
 * @param[in]    uint16_td *pu16ip 字指针
 * @param[out]   uint16_td *pu16ip 字指针
@@ -40,7 +40,7 @@ void sample_three( uint16_td * pu16ip, uint16_td u16step );
 
 /*****************************************************************************
 * @name         sample_four
-* @brief        软件重启时间清零
+* @brief        示例4
 * @param[in]    无
 * @param[out]   无
 * @return       无
