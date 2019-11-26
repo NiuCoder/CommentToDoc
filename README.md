@@ -2,8 +2,7 @@
 A python-implemented tool which can transfer code comments(.h file) to microsoft word document.
 
 # How to work
-put the [CommentToDoc.py](https://github.com/NiuCoder/CommentToDoc/blob/master/CommentToDoc.py) and the head file, \
-for example sample_api.h into the sample fold. Run the .py file and the doc will be generated, it will cost lot of time \
+put the [CommentToDoc.py](https://github.com/NiuCoder/CommentToDoc/blob/master/CommentToDoc.py) and the head file, for example [sample_api.h](https://github.com/NiuCoder/CommentToDoc/blob/master/sample_api.h) into the sample fold. Run the .py file and the doc will be generated, it will cost lot of time \
 if there are two many files or file size is too large. 
 
 # Note
